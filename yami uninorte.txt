@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html> 
+<head>
+
+</head>
+<body>
+
+<h1> Mi primer encabezado </h1>
+<p> mi primer parrafo </p>
+
+</body>
+</html>
